@@ -20,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Passionate about developing and blockchain technologies.
 
-- :zap: Currently cursing a Blockchain Development Master's degree
+- :zap: Finished a Blockchain Development Master's degree
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MarcSagues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marc-sagu%C3%A9s-b44a17207)
 
