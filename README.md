@@ -15,12 +15,12 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
+I am a Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Passionate about developing and blockchain technologies.
 
-- :zap: Finished a Blockchain Development Master's degree
+- :zap: Finished a Blockchain Development Master's degree, looking for my first Web3 developer job
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MarcSagues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marc-sagu%C3%A9s-b44a17207)
 
