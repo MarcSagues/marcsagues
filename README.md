@@ -13,9 +13,7 @@
   </a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=marcsagues&style=flat-square&color=7c3aed&label=Profile+views" alt="Profile views"/>
-  <br/><br/>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" alt="Building software together"/>
+  <img src="https://komarev.com/ghpvc/?username=marcsagues&amp;style=flat-square&amp;color=blue" alt="Profile views"/>
 </div>
 
 ---
